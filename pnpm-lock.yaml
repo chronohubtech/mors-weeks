@@ -2,12 +2,19 @@ lockfileVersion: 5.4
 
 specifiers:
   moment: ^2.29.4
+  range: ^0.0.3
 
 dependencies:
   moment: 2.29.4
+  range: 0.0.3
 
 packages:
 
   /moment/2.29.4:
     resolution: {integrity: sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==}
+    dev: false
+
+  /range/0.0.3:
+    resolution: {integrity: sha512-OxK2nY2bmeEB4NxoBraQIBOOeOIxoBvm6yt8MA1kLappgkG3SyLf173iOtT5woWycrtESDD2g0Nl2yt8YPoUnw==}
+    engines: {node: '>=0.8'}
     dev: false

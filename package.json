@@ -10,7 +10,8 @@
   "author": "Justin Pascual",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "range": "^0.0.3"
   },
   "type": "module"
 }
